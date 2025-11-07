@@ -1,5 +1,4 @@
-import Meals from "./Meals FetchData/Meals.Jsx"
-
+import Todo from "./Todo/Todo"
 
 
 const App = () => {
@@ -7,8 +6,7 @@ const App = () => {
     <div>
 
 
-
-      <Meals />
+      <Todo />
 
 
 
