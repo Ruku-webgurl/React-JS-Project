@@ -1,13 +1,19 @@
-import React from 'react'
-import Calculator from './Calculator/Calculator'
+import Meals from "./Meals FetchData/Meals.Jsx"
+
+
 
 const App = () => {
   return (
     <div>
-      <Calculator />
+
+
+
+      <Meals />
+
+
+
     </div>
   )
 }
 
 export default App
-
