@@ -1,11 +1,12 @@
-import Form from "./Form/Form"
+import Counter from "./Counter/Counter"
+
 
 
 
 const App = () => {
   return (
     <div>
-      <Form />
+      <Counter />
 
     </div>
   )
