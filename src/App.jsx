@@ -1,4 +1,5 @@
 import Counter from "./Counter/Counter"
+import Testimonials from "./Testimonial/Testimonial"
 import TodoList from "./Todo/TodoList"
 
 
@@ -7,7 +8,7 @@ import TodoList from "./Todo/TodoList"
 const App = () => {
   return (
     <div>
-      <TodoList />
+      <Testimonials />
 
     </div>
   )
