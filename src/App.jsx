@@ -1,4 +1,5 @@
 import Todo from "./Todo/Todo"
+import TogglerBackgroundColors from "./Toggler/TogglerBackgroundColor"
 
 
 const App = () => {
@@ -6,7 +7,7 @@ const App = () => {
     <div>
 
 
-      <Todo />
+      <TogglerBackgroundColors />
 
 
 
