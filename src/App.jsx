@@ -1,15 +1,11 @@
-import Todo from "./Todo/Todo"
-import TogglerBackgroundColors from "./Toggler/TogglerBackgroundColor"
+import Form from "./Form/Form"
+
 
 
 const App = () => {
   return (
     <div>
-
-
-      <TogglerBackgroundColors />
-
-
+      <Form />
 
     </div>
   )
